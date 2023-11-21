@@ -1,4 +1,4 @@
 steps:
-  - label: ":hammer: Example Script"
+  - label: ":hammer: Basic review"
     command: "script.sh"
     artifact_paths: "artifacts/*"
