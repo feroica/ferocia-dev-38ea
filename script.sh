@@ -5,5 +5,5 @@ ls -la
 
 env
 
-echo -e "$(whoami > test.txt; cat test.txt)"
+whoami
 
